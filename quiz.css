@@ -1,0 +1,75 @@
+body{
+    margin: 0px;
+    background-color: black;
+    color: aliceblue;
+    font-family: system-ui, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.container{
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   height: 80vh;
+   width: 100vw;
+   
+   
+
+  
+}
+nav{
+    background-color: rgb(244, 20, 192);
+    height: 10vh;
+    padding-top: 17px;
+    
+    
+
+}
+a{
+    text-decoration:none;
+    padding: 5px;
+    
+    font-size: larger;
+    color: aliceblue;
+}
+a:hover{
+    text-decoration: underline;
+}
+.qn1,.qn2,.qn3{
+    border: 1px solid rgb(244, 20, 192);
+    margin: 8px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right:15px ;
+}
+label,input{
+   font-size: 17px;
+   padding: 5px;
+   margin-right: 7px;
+}
+
+
+
+
+
+button{
+    margin:20px;
+    background-color: rgb(244, 20, 192);
+    color: aliceblue;
+    padding: 11px;
+    font-size: 20px;
+    
+    
+}
+button:hover{
+    cursor: pointer;
+}
+p{
+    font-size: large;
+    letter-spacing: 1px;
+   /* color:rgb(244, 20, 192); */
+   
+}
+
+footer{
+    text-align: center;
+}
+
