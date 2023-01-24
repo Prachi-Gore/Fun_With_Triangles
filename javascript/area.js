@@ -10,6 +10,6 @@ calculateBtn.addEventListener("click",()=>{
     output.innerText="Please Enter valid values";
     else{
         const area=0.5*base*height;
-        output.innerText="Area Of The Triangle is "+area;
+        output.innerText="Area Of The Triangle is "+area+"cm²";
     }
 })
