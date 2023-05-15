@@ -12,5 +12,5 @@ A javascript App to do the following:
    Here is the <a href="https://learn-triangles-with-fun.netlify.app/">app</a> Do not forget to ⭐ if you like it 
   </p>
   
-    This app is part of assigment given by Tanay Pratap for neog.camp.
+    This app is part of assigment given by Tanay Pratap Sir for neog.camp.
 
